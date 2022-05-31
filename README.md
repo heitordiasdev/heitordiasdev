@@ -1,10 +1,6 @@
 ## Eaee!? Eu sou o José Heitor
 
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-
+- 👨‍💻 Atualmente estou estudando Desenvolvimento Full Stack.
 
 
 <div align="center">
