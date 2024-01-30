@@ -1,6 +1,6 @@
 ## Eaee!? Eu sou José Heitor
 
-- 👨‍💻 Atualmente estou estudando Desenvolvimento Full Stack.
+- 👨‍💻 Atualmente estou estudando Go!
 - ✅ Focado sempre em aprender e inovar.
 
 
