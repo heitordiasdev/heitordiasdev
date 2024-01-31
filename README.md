@@ -1,6 +1,6 @@
 ## Eaee!? Eu sou José Heitor
 
-- 👨‍💻 Atualmente estou estudando Go!
+- 👨‍💻 Atualmente estou estudando desenvolvimento de microsserviços!
 - ✅ Focado sempre em aprender e inovar.
 
 
